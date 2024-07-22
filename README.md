@@ -53,11 +53,11 @@ Se escogió el **algoritmo genético** como la meta-heurística a desarrollar pa
 
 ## Gráficos Comparativos
 
-![facil](./graphs/facil.jpg)
+![facil](./Sudoku/graphs/facil.jpg)
 
-![medio](./graphs/medio.jpg)
+![medio](./Sudoku/graphs/medio.jpg)
 
-![dificil](./graphs/dificil.jpg)
+![dificil](./Sudoku/graphs/dificil.jpg)
 
 ## Creditos
 
